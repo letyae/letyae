@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer vision and software developer.<br>I'm currently working on a Python project.<br>I'm open for new project and job
+I'm a computer vision and software developer.<br>I'm currently working on a Java spring boot project.<br>I'm open for new project 
 
 
 ## 🌐 Socials:
