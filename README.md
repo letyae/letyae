@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a computer vision and software developer.<br>I'm currently working on a Java spring boot project.<br>I'm open for new project 
-
+I'm a computer vision and software developer.<br>I'm currently working on  Java spring boot and Angular projects.<br>I'm open for new job. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/letekoma-yao) 
